@@ -59,13 +59,13 @@ quizbuzz/
 - **React Native Progress:** For the progress bar.
 
 ## How to Play
--**Launch the app.**
--**Start the quiz from the Splash screen.**
--**Answer each question by selecting an option.**
+- **Launch the app.**
+- **Start the quiz from the Splash screen.**
+- **Answer each question by selecting an option.**
 -**View your score at the end and choose to play again if desired.**
 
 ## Future Enhancements
--**Add more questions and categories.**
--**Implement a leaderboard to compare scores with others.**
--**Add sound effects and animations for a more engaging experience.**
+- **Add more questions and categories.**
+- **Implement a leaderboard to compare scores with others.**
+- **Add sound effects and animations for a more engaging experience.**
 
