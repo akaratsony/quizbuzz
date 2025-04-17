@@ -1,4 +1,12 @@
 # QuizBuzz
+<p align="center">
+  <img src="assets/landingphone.png" alt="Kvíz felület" width="200" style="display:inline-block; margin-right:10px;"/>
+  <img src="assets/quizphone.png" alt="Kvíz felület" width="250" style="display:inline-block;"/>
+  <img src="assets/finishphone.png" alt="Kvíz felület" width="200" style="display:inline-block; margin-left:10px;"/>
+
+	
+</p>
+
 
 QuizBuzz is a fun and interactive quiz application designed to test your knowledge about legendary fictional characters. Built with React Native and Expo, it supports both mobile and web platforms, providing a seamless experience across devices.
 
